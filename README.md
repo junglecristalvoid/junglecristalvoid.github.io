@@ -1,4 +1,4 @@
-## Hi there 👋
+## im still new to this mkay -
 
 <!--
 **junglecristalvoid/junglecristalvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
