@@ -1,0 +1,64 @@
+body {
+        text-align: center;
+        background: url(./ressources/leopink.gif) center/cover;
+        /* VH = 100% de la taille de l'ecran (viewport height) */
+        min-height: 100vh;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #fc5d77;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 4px; 
+    text-decoration: underline;
+    text-shadow: -1px 2px 2px #ffffff;
+}
+
+main {
+    height: 500px;
+    /* pourcentages cool pour les largeurs */
+    width: 90%;
+    background-color: #ffc0cbb9;
+    margin: 0 auto;
+    border: 2px solid white;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 0 0 5px 5px #ff93a5;
+    padding: 15px;
+}
+
+h2 {
+    margin: 0;
+}
+
+
+.flexbox {
+    border: 2px solid white;
+    border-radius: 40px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* FLEXBOX sert a repartir equitablement des elements */
+.flexbox li {
+    
+}
+
+p {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-shadow: -1px 2px 1.5px #fc5d77;
+    padding: 25px;
+}
+
+.image-coin {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 100px;
+    height: auto;
+    z-index: 1000;
+}
